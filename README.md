@@ -1,5 +1,9 @@
-### Hi there 👋
+### Bruno César
 
+- 🤓 Learning how to be a programmer
+- 😎 Student at C.E.S.A.R. School
+
+- Contact me at: brunoccb89@gmail.com
 <!--
 **BrunoCCB/BrunoCCB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
